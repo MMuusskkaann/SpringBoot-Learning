@@ -2,9 +2,11 @@ package com.LearningAPis.learningRESTAPIs.dto;
 
 import lombok.AllArgsConstructor;
 import  lombok.Data;   //it can create automatically create a boiler plate code
+import lombok.NoArgsConstructor;
 
 @Data
-//@AllArgsConstructor  //it creates a all argument constructor  which contains all things
+@AllArgsConstructor  //it creates a all argument constructor  which contains all things
+@NoArgsConstructor
 public class Studentdto {
 
     private Long id;
@@ -14,12 +16,12 @@ public class Studentdto {
 
     //boiler plate code
 
-    public Studentdto(Long id, String name, String email) {
-        this.id = id;
-        this.name = name;
-        this.email = email;
-    }
-
+//    public Studentdto(Long id, String name, String email) {
+//        this.id = id;
+//        this.name = name;
+//        this.email = email;
+//    }
+//
 //    public Studentdto() {
 //    }
 //

@@ -12,4 +12,10 @@ public class StudentController {
     public Studentdto  getStudent(){
           return new Studentdto(5L,"Muskan","muskan123@gmail.com");
     }
+
+    @GetMapping("/student/{id}")
+
+    public Studentdto  getStudentById(){
+        return new Studentdto(5L,"Muskan","muskan123@gmail.com");
+    }
 }
