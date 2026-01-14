@@ -10,7 +10,7 @@ public class StudentController {
     @GetMapping("/student")
 
     public Studentdto  getStudent(){
-          return new Studentdto(5L,"Muskan","muskan123@gmail.com");
+          return new Studentdto(5L,"Muskan Chaudhary","muskan123@gmail.com");
     }
 
     @GetMapping("/student/{id}")
