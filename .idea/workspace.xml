@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19692757-57f6-4a40-857f-1c511279f62f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/learningRESTAPIs/src/main/java/com/LearningAPis/learningRESTAPIs/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learningRESTAPIs/src/main/java/com/LearningAPis/learningRESTAPIs/repository/StudentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learningRESTAPIs/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learningRESTAPIs/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learningRESTAPIs/src/main/java/com/LearningAPis/learningRESTAPIs/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/learningRESTAPIs/src/main/java/com/LearningAPis/learningRESTAPIs/controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learningRESTAPIs/src/main/java/com/LearningAPis/learningRESTAPIs/dto/Studentdto.java" beforeDir="false" afterPath="$PROJECT_DIR$/learningRESTAPIs/src/main/java/com/LearningAPis/learningRESTAPIs/dto/Studentdto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learningRESTAPIs/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learningRESTAPIs/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learningRESTAPIs/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/learningRESTAPIs/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learningRESTAPIs/target/classes/com/LearningAPis/learningRESTAPIs/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/learningRESTAPIs/target/classes/com/LearningAPis/learningRESTAPIs/controller/StudentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learningRESTAPIs/target/classes/com/LearningAPis/learningRESTAPIs/dto/Studentdto.class" beforeDir="false" afterPath="$PROJECT_DIR$/learningRESTAPIs/target/classes/com/LearningAPis/learningRESTAPIs/dto/Studentdto.class" afterDir="false" />
-    </list>
+    <list default="true" id="19692757-57f6-4a40-857f-1c511279f62f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
