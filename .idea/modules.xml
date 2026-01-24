@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/learningRESTAPIs.iml" filepath="$PROJECT_DIR$/.idea/learningRESTAPIs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-Learning.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learningRESTAPIs/learningRESTAPIs.iml" filepath="$PROJECT_DIR$/learningRESTAPIs/learningRESTAPIs.iml" />
     </modules>
   </component>
 </project>
